@@ -12,7 +12,7 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello Jesus!</h1>
+    <h1>Looking Good</h1>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
